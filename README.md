@@ -1,2 +1,2 @@
 
-vite-project-37be3.web.app
+https://vite-project-37be3.web.app/login
